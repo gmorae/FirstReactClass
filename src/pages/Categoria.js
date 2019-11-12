@@ -1,7 +1,7 @@
 import React, { Component} from 'react'
 import '../App.css'
 import Rodape from '../components/Rodape'
-import Navbar from '../components/Navbar'
+import Navbar from '../components/Navbar/Navbar'
 
 class Categoria extends Component{
     render(){

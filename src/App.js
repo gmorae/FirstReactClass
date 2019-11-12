@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css'
+import Rodape from './components/Rodape'
 function App() {
   return (
     <div className="App">
       <h1>Home</h1>
-      <footer>Escola Senai de informática</footer>
+      <Rodape />
     </div>
   );
 }

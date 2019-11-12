@@ -3,9 +3,9 @@ import '../App.css'
 class Categoria extends Component{
     render(){
         return(
-            <div>
+            <div className="App">
                 <h1>Categoria</h1>
-                <p>Teste Categiria</p>
+                <p>Teste Categoria</p>
                 <footer>Escola Senai de informática</footer>
             </div>
         )
